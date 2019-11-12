@@ -1,2 +1,3 @@
 # messageMe
-Messaging app.
+messageMe is a program that allows users to connect/contact one another.
+
