@@ -1,0 +1,25 @@
+{
+  "name": "messageme",
+  "version": "1.0.0",
+  "description": "messageMe is a program that allows users to connect/contact one another.",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lowwrena1/messageMe.git"
+  },
+  "author": "Rena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lowwrena1/messageMe/issues"
+  },
+  "homepage": "https://github.com/lowwrena1/messageMe#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
