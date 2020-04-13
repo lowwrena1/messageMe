@@ -5,7 +5,7 @@ messageMe is a program that allows users to connect/contact one another.
 * socket.io
 * html
 * css
-*javascript
+* javascript
 
 ### to start use
 npm run devStart
